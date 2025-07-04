@@ -36,6 +36,7 @@ Hands-on experience with basic identity and access management tasks using Micros
 - Validate CSV with Entra format checker before import.
 - Confirm permissions on admin accounts before starting.
 - Test guest invites and role assignment across multiple browsers for user simulation.
+- Take screenshots of my work for record purposes.
 
 ---
 
