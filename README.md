@@ -99,6 +99,26 @@ This lab is part of my intentional roadmap toward becoming an **Identity and Acc
 I'm transitioning into **cybersecurity with a focus on IAM**, blending hands-on technical skills with security-first thinking. I will be posting my entire process here. You can follow more of my work here on GitHub. 
 ---
 
+## 📚 Source / Attribution
+
+This lab is based on official Microsoft Learn content and lab exercises. It was completed as part of my learning path toward specializing in **Identity and Access Management (IAM)** within cybersecurity.
+
+### 🔗 Official References
+
+- 📘 **Microsoft Learn Module**:  
+  [Get started with identity and access management labs](https://learn.microsoft.com/en-us/training/modules/get-started-identity-access-labs/)  
+  _This module introduces basic identity tasks using Microsoft Entra ID._
+
+- 🧪 **Lab Instructions**:  
+  [Lab 1 – Perform Basic User Management Tasks](https://microsoftlearning.github.io/Get-started-Microsoft-Entra-Management-Tasks/Instructions/Labs/01-perform-basic-user-management.html)  
+  _This guided lab walks through user creation, license assignment, and role assignment._
+
+- 📂 **Lab Files & CSV Templates**:  
+  [MicrosoftLearning/SC-300 GitHub Repository – Lab 1 Files](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/tree/master/Allfiles/Labs/Lab1)  
+  _Official CSV files for bulk user import (Task 5) were sourced from this repository._
+
+> ⚠️ **Disclaimer**: This repository is a personal educational project. It is not affiliated with or endorsed by Microsoft. All content is used under the terms of Microsoft’s publicly available training materials and GitHub repositories.
+
 ## 📌 Tags
 `#MicrosoftEntra` `#AzureAD` `#IAM` `#CloudSecurity` `#SC300` `#AdminLabs` `#Cybersecurity`
 
